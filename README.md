@@ -29,7 +29,3 @@ RX1day represents the maximum daily precipitation amount within a specified peri
 
 - `notebooks/` — Jupyter Notebook containing data processing, analysis and visualisation.
 - `data/` — Spatial boundary data used in the analysis.
-
-## Repository description
-
-Analysis of extreme rainfall across NSW using NARCliM2.0 precipitation data, deriving the ET-SCI RX1day index to investigate spatial and temporal patterns and trends.
